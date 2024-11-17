@@ -1,6 +1,6 @@
 # Python Practice Repository
 
-![Python Documentation](https://docs.python.org/3/)
+![Python Documentation](https://img.shields.io/badge/Docs-Python%20Documentation-blue?style=flat&logo=python&logoColor=white&labelColor=blue)
 
 Welcome to the **Python Practice** repository! This repository is dedicated to learning and mastering the fundamentals of Python programming. It contains various exercises and lessons designed to help beginners get comfortable with Python syntax, data structures, and key programming concepts.
 
